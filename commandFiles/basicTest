@@ -1,0 +1,10 @@
+setState b12345678
+printState
+move right
+printState
+randomizeState 100
+maxNodes 10
+solve a-star h1
+maxNodes 10000
+solve a-star h1
+printSolution

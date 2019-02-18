@@ -1,0 +1,12 @@
+setState b12345678
+randomizeState 30
+solve a-star h1
+printSolution
+solve a-star h2
+printSolution
+solve beam 4
+printSolution
+solve beam 8
+printSolution
+solve beam 16
+printSolution
